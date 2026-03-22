@@ -132,6 +132,9 @@ padding: 60px 40px ;
     width: 122px;
     height: 41px;
 }
+.button-two:hover{
+    background-color: rgb(211, 38, 7);
+}
 .button-three{
     background-color: #FFC239;
     color: white;
@@ -208,5 +211,25 @@ padding: 60px 40px ;
 .center{ display: flex;
     justify-content: center;
     margin-bottom: 90px;
+
+}
+.btn:hover{
+    background-color: orangered;
+    color: rgb(20, 2, 2);
+}
+.button-share:hover{
+    background-color:purple;
+    
+}
+.box-s{
+    padding: 20px 30px;
+    background-color: rgb(4, 37, 99);
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 31px;
+    font-weight: bold;
+    border-radius: 20px;
+    align-content: center;
 
 }
